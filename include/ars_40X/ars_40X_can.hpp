@@ -5,7 +5,7 @@
 #ifndef ARS_40X_ARS_40X_HPP
 #define ARS_40X_ARS_40X_HPP
 
-#include <socket_can/socket_can.hpp>
+#include "ars_40X/socket_can.hpp"
 
 #include "ars_40X/cluster_list.hpp"
 #include "ars_40X/motion_input_signals.hpp"
